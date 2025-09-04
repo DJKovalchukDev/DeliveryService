@@ -14,7 +14,6 @@ public class Main {
         System.out.println("\nCloneDimensions: " + cloneDimensions + "\n" + goods);
 
 
-
         Goods clone1;
         clone1 = goods.setWeight(30);
         clone1 = clone1.setDeliveryAddress("Berlin");
